@@ -1,0 +1,10 @@
+[Employees]
+FName1 - LName1 - 1
+FName2 - LName2 - 2
+FName3 - LName3 - 3
+FName4 - LName4 - 4
+[Students]
+FName1 - LName1 - 1 - Class 01, Class 02
+FName2 - LName2 - 2 - Class 02, Class 03
+FName3 - LName3 - 3 - Class 03, Class 04
+FName4 - LName4 - 4 - Class 04, Class 01
